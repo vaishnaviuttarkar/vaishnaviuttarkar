@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Devboard, a backend project built with Django and Django REST Framework, Redis<br>- 👯 I’m looking to collaborate on Python, Django, and backend development projects.<br>🤝 I’m looking for help with AWS, CI/CD, and Kubernetes best practices.<br>🌱 I’m currently learning Docker, PostgreSQL,  Celery, AWS, and Jenkins.<br>💬 Ask me about Python, Django, REST APIs, PHP, CodeIgniter, SQL, and backend development.<br>⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions!
+🔭 I’m currently working on Devboard, a backend project built with Django and Django REST Framework, Redis<br>👯 I’m looking to collaborate on Python, Django, and backend development projects.<br>🤝 I’m looking for help with AWS, CI/CD, and Kubernetes best practices.<br>🌱 I’m currently learning Docker, PostgreSQL,  Celery, AWS, and Jenkins.<br>💬 Ask me about Python, Django, REST APIs, PHP, CodeIgniter, SQL, and backend development.<br>⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions!
 
 
 ## 🌐 Socials:
